@@ -1,0 +1,9 @@
+import contents_measures_outer_measures_capacities_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace contents_measures_outer_measures_capacities_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end contents_measures_outer_measures_capacities_theorem_canonical_lane_mathlib
+end HautevilleHouse
